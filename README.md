@@ -6,11 +6,11 @@ No Ads
 Lightweight
 
 
-# FinApp
+# Tonch
 
 Sistema de gestão financeira **simples, rápido e totalmente gratuito**.
 
-O FinApp foi criado para quem quer controlar receitas, despesas e contas sem depender de aplicativos pesados, assinaturas ou plataformas cheias de anúncios.
+O Tonch foi criado para quem quer controlar receitas, despesas e contas sem depender de aplicativos pesados, assinaturas ou plataformas cheias de anúncios.
 
 O objetivo do projeto é oferecer uma ferramenta **leve, acessível e totalmente sob controle do usuário**.
 
@@ -26,7 +26,7 @@ Hoje existem muitas ferramentas financeiras, mas a maioria apresenta problemas c
 - aplicativos pesados
 - dependência de plataformas externas
 
-O **FinApp** segue uma filosofia diferente.
+O **Tonch** segue uma filosofia diferente.
 
 ✔ Sem anúncios  
 ✔ Sem coleta de dados  

@@ -41,11 +41,7 @@ desenvolvido com foco em simplicidade, autonomia e privacidade.
 
 ## ⚙️ Como rodar
 
-git clone https://github.com/seu-usuario/finapp.git
-
-Coloque em: C:`\xampp`{=tex}`\htdocs`{=tex}`\finapp`{=tex}
-
-Acesse: http://localhost/finapp/public
+Copie todos os arquivos para o seu diretorio (Host, Xamp,AppServer) depois acesse e efetue o wizard de instalação.
 
 ## 🔐 Segurança
 
